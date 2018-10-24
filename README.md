@@ -10,5 +10,5 @@
 -------
 ## 作業執行  
 1. npm install  
-2. node key.js  
+2. $node key.js  
 3. 1，2題的答案皆在console log視窗中  
